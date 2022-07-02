@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LOAN CALCULATOR</string>
+
+    <string-array name="names">
+        <item>Loan Amount</item>
+        <item>Interest Rate</item>
+        <item>Number of months</item>
+        <item>Monthly Payment</item>
+    </string-array>
+</resources>
